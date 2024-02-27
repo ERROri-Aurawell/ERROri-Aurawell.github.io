@@ -12,7 +12,13 @@ body {
 p {
     color: #210059;
     font-size:large;
+}
 a {
     text-decoration: none;
     color: aquamarine;
+}
+
+li {
+    color: rgb(113, 50, 124);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
