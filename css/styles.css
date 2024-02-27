@@ -1,10 +1,18 @@
-h1 {
+ h1 {
     color: hwb(348 24% 25%);
-    font-family:'Times New Roman', Times, serif;
-    width: 160px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 150px;
     height: 40px;
     margin: auto;
     border: 8px double white;
+}
+h2 {
+    color: rgb(0, 39, 158);
+    font-family:'Times New Roman', Times, serif;
+    width: 120px;
+    height: 30px;
+    margin: auto;
+    border: 8px double rgb(65, 0, 81); 
 }
 body {
     background-color: rgb(110, 110, 110);
