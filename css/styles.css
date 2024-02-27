@@ -1,0 +1,18 @@
+h1 {
+    color: hwb(348 24% 25%);
+    font-family:'Times New Roman', Times, serif;
+    width: 160px;
+    height: 40px;
+    margin: auto;
+    border: 8px double white;
+}
+body {
+    background-color: rgb(110, 110, 110);
+}
+p {
+    color: #210059;
+    font-size:large;
+a {
+    text-decoration: none;
+    color: aquamarine;
+}
