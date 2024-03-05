@@ -71,3 +71,9 @@ img {
 #kafka{
     width: 450px;
 }
+#tiposDeClasse{
+    color: rgb(28, 0, 54);
+    margin: auto;
+    border: 12px double black;
+    width: 240px;
+}
