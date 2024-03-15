@@ -3,7 +3,7 @@ h1 {
     color: rgb(0, 39, 158);
     font-family:'Times New Roman', Times, serif;
     text-align: center;
-    width: 400px;
+    width: 410px;
     margin: auto;
     border: 8px double rgb(65, 0, 81); 
 }
@@ -20,13 +20,11 @@ h3{
     text-align: center;
     margin: auto;
     border: 12px double black;
-    width: 60px;
+    width: 80px;
 }
 #sistema {
-    color: blue;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
-    margin: auto;
-    border: 12px double rgb(16, 0, 72);
     width: 120px;
 }
 
@@ -54,12 +52,12 @@ p {
     font-size:larger;
 }
 .Pgeleira{
-    color: black;
+    color: lightblue;
     font-size: large;
 }
 
 .Pfloresta{
-    color: white;
+    color: lightgreen;
     font-size: large;
 }
 
