@@ -35,6 +35,11 @@ h3{
     border: 12px double rgb(0, 15, 81);
 }
 
+#H1floresta{
+    color: black;
+    border: 12px double darkolivegreen;
+}
+
 .textoExplicativo{
     color: rgb(255, 255, 255);
     font-size: 15px;
@@ -50,7 +55,12 @@ p {
 }
 .Pgeleira{
     color: black;
-    font
+    font-size: large;
+}
+
+.Pfloresta{
+    color: white;
+    font-size: large;
 }
 
 a{
@@ -99,5 +109,14 @@ div {
     background-size: cover;
     background-position: center;
     margin-bottom: 50px;
-    background-attachment: fixed;
+}
+
+#div2{
+    background-image: url('../img/floresta.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    margin: auto 50px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 50px;
 }
