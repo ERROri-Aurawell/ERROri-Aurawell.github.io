@@ -50,6 +50,7 @@ body {
 p {
     color: #210059;
     font-size:larger;
+    margin: auto;
 }
 .Pgeleira{
     color: lightblue;
@@ -69,6 +70,12 @@ a{
     color: #ffffff;
     padding: 8px 15px;
     border-radius: 20px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+#aBoses{
+    left: 80px;
 }
 
 li {
@@ -117,4 +124,27 @@ div {
     background-size: cover;
     background-position: center;
     margin-bottom: 50px;
+}
+
+#elementalDePedra{
+    position: absolute;
+    width: auto;
+    width: 200px;
+}
+header{
+    top: 0;
+    position: fixed;
+    width: 100%;
+    height: 65px;
+    background-color: black ;
+}
+footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    height: 30px;
+    background-color: lightslategray ;
+}
+#rodape{
+    text-align: center;
 }
