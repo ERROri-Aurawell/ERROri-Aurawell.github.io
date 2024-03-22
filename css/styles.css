@@ -51,6 +51,7 @@ p {
     color: #210059;
     font-size:larger;
     margin: auto;
+    
 }
 .Pgeleira{
     color: lightblue;
@@ -60,6 +61,10 @@ p {
 .Pfloresta{
     color: lightgreen;
     font-size: large;
+    text-align: center;
+}
+#img02{
+    margin-left: 200px ;
 }
 
 a{
@@ -100,7 +105,7 @@ img {
 
 div {
     background-color: rgb(93, 93, 93);
-    padding: 50px;
+    padding: 60px;
     width: 1300px;
     margin: 0 auto;
     border-top: 5px solid rgb(51, 38, 46);
@@ -126,11 +131,6 @@ div {
     margin-bottom: 50px;
 }
 
-#elementalDePedra{
-    position: absolute;
-    width: auto;
-    width: 200px;
-}
 header{
     top: 0;
     position: fixed;
@@ -147,4 +147,12 @@ footer{
 }
 #rodape{
     text-align: center;
+}
+
+#botaoExistindo{
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    color: brown;
+    background-color: rgb(93, 93, 93);
 }
