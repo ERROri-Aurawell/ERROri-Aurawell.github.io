@@ -82,6 +82,10 @@ a{
     left: 10%; 
 }
 
+#aEpaEpa{
+    left: 20%;
+}
+
 li {
     color: rgb(40, 0, 38);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
