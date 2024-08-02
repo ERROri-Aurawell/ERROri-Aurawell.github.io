@@ -1,0 +1,51 @@
+body{
+    background-color: gray;
+}
+
+header{
+    background-color: darkgray;
+    min-height: 10px;
+    max-height: 25%;
+    top: 0;
+    position: fixed;
+    width: 100%;
+}
+
+div{
+    margin-top: 22px;
+    border-bottom: 5px solid black;
+}
+
+h1{
+    color: blueviolet;
+    font-size: larger;
+    text-align: center;
+    margin-top: 2%;
+}
+
+img{
+    min-height: 25%;
+    max-width: 40%;
+}
+
+.A{
+    display: flex;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+    padding-top: 2%;
+    font-size: 115%;
+    font-weight: bold;
+    text-decoration:underline;
+}
+
+p{
+    margin-right: 5px;
+    font-size: 120%;
+}
+
+strong{
+    font-weight: bolder;
+}
