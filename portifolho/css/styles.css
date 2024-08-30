@@ -25,7 +25,7 @@ header {
 }
 
 img{
-    max-width: 40%;
+    max-width: 50%;
 }
 
 .menu{
@@ -51,6 +51,7 @@ img{
 
 .projeto{
     min-width: 350px;
+    max-width: 500px;
     height: 450px;
     display: flex;
     flex-direction: column;
