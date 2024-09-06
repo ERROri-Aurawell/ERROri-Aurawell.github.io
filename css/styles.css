@@ -1,0 +1,52 @@
+table {
+    border-collapse: collapse;
+    border-top: 30px;
+}
+
+thead {
+    color: black;
+}
+
+tbody {
+    color: black;
+}
+
+tfoot {
+    color: black;
+}
+
+th,
+td {
+    border: 1px solid black;
+    font-size: xx-large;
+}
+
+body {
+    background-color: gray;
+}
+
+a {
+    text-decoration: none;
+    color: lime;
+}
+
+.link {
+    color: lime;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+
+}
+
+#projeto {
+    color: lime;
+}
